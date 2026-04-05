@@ -1,4 +1,4 @@
-# FinanceOS — Smart Finance Dashboard
+# NexusFi — Smart Finance Dashboard
 
 > A futuristic, feature-rich finance dashboard built for the Frontend Developer Intern assignment.
 
